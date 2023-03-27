@@ -1,0 +1,46 @@
+*{
+    margin: 8px auto;
+    padding: 2px, auto;
+    background-color: black;
+    box-sizing: border-box;
+
+}
+
+#container{
+    color: red;
+    text-align: center;
+    border: 2px solid red;
+    width: 360px;
+    height: 450px;
+    margin:  auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+input{
+    color: red;
+    border-radius: 8px;
+    background-color: white;
+    backdrop-filter: blur (4px);
+    -webkit-backdrop-filter: blur (4px);
+   
+
+
+
+}
+
+
+button{
+    color: red;
+    background-color: grey;
+    border-radius: 8px; 
+    font-size: 20px;
+    border: 2px solid red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+   
+}
+ 
+
